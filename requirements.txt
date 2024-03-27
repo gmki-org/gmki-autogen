@@ -1,0 +1,6 @@
+pyautogen
+chardet
+pydantic
+pandas
+scikit-learn
+requests
